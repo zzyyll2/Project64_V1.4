@@ -1,0 +1,5 @@
+release
+Release_External
+HLE Release/
+.vs
+*.VC.db
